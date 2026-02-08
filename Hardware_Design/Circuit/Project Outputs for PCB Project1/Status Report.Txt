@@ -1,0 +1,11 @@
+Project Outputs Generation Report
+Document [Sheet1.SchDoc]
+Start Time [07:46:35 È.Ù]
+Start Date [2005/07/21]
+
+Output   [Protel]
+Type     [ProtelNetlist]
+'PCB Project1.NET' generated
+
+
+Total number of generated files = 1

@@ -1,0 +1,366 @@
+Protel Design System Design Rule Check
+PCB File : \Documents and Settings\Salar\Desktop\Circuit\PCB1.PcbDoc
+Date     : 2005/07/22
+Time     : 07:23:13 È.Ù
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (All),(All)
+   Violation between Pad Designator30-2(4740mil,3260mil)  Multi-Layer and                      Track (4740mil,3260mil)(4740mil,3380mil)  Bottom Layer   
+   Violation between Pad Designator32-2(1580mil,2340mil)  Multi-Layer and                      Track (1620mil,2340mil)(1700mil,2260mil)  Bottom Layer   
+   Violation between Pad Designator32-2(1580mil,2340mil)  Multi-Layer and                      Track (1580mil,2340mil)(1620mil,2340mil)  Bottom Layer   
+   Violation between Pad Designator32-2(1580mil,2340mil)  Multi-Layer and                      Track (1580mil,2340mil)(1580mil,2340mil)  Bottom Layer   
+   Violation between Pad Designator32-2(1580mil,2340mil)  Multi-Layer and                      Track (1580mil,2340mil)(1580mil,2670mil)  Bottom Layer   
+   Violation between Pad Designator32-3(1580mil,2429.764mil)  Multi-Layer and                      Track (1580mil,2340mil)(1580mil,2670mil)  Bottom Layer   
+   Violation between Pad Designator12-8(1570mil,2680mil)  Multi-Layer and                      Track (1580mil,2340mil)(1580mil,2670mil)  Bottom Layer   
+   Violation between Pad Designator12-27(970mil,3280mil)  Multi-Layer and                      Track (980mil,3300mil)(980mil,3560mil)  Bottom Layer   
+   Violation between Pad Designator11-1(980mil,3600mil)  Multi-Layer and                      Track (980mil,3300mil)(980mil,3560mil)  Bottom Layer   
+   Violation between Pad Designator11-23(3180mil,3600mil)  Multi-Layer and                      Track (3180mil,3380mil)(3180mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator11-22(3080mil,3600mil)  Multi-Layer and                      Track (3080mil,3380mil)(3080mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator11-24(3280mil,3600mil)  Multi-Layer and                      Track (3280mil,3380mil)(3280mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator11-20(2880mil,3600mil)  Multi-Layer and                      Track (2880mil,3380mil)(2880mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator11-21(2980mil,3600mil)  Multi-Layer and                      Track (2980mil,3380mil)(2980mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-6(1370mil,2680mil)  Multi-Layer and                      Track (1370mil,2680mil)(1370mil,2810mil)  Bottom Layer   
+   Violation between Pad Designator12-5(1270mil,2680mil)  Multi-Layer and                      Track (1270mil,2680mil)(1270mil,2810mil)  Bottom Layer   
+   Violation between Pad Designator12-1(870mil,2680mil)  Multi-Layer and                      Track (870mil,2680mil)(870mil,2810mil)  Bottom Layer   
+   Violation between Pad Designator12-15(2170mil,3280mil)  Multi-Layer and                      Track (2170mil,3130mil)(2170mil,3280mil)  Bottom Layer   
+   Violation between Pad Designator12-1(870mil,2680mil)  Multi-Layer and                      Track (870mil,2680mil)(980mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator12-2(970mil,2680mil)  Multi-Layer and                      Track (870mil,2680mil)(980mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator17-2(860mil,2420mil)  Multi-Layer and                      Track (860mil,2440mil)(860mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator16-2(860mil,2540mil)  Multi-Layer and                      Track (860mil,2440mil)(860mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator12-1(870mil,2680mil)  Multi-Layer and                      Track (860mil,2440mil)(860mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator17-1(760mil,2420mil)  Multi-Layer and                      Track (760mil,2420mil)(760mil,3160mil)  Bottom Layer   
+   Violation between Pad Designator16-1(760mil,2540mil)  Multi-Layer and                      Track (760mil,2420mil)(760mil,3160mil)  Bottom Layer   
+   Violation between Pad Designator12-3(1070mil,2680mil)  Multi-Layer and                      Track (1070mil,2680mil)(1070mil,2970mil)  Bottom Layer   
+   Violation between Pad Designator12-4(1170mil,2680mil)  Multi-Layer and                      Track (1170mil,2680mil)(1170mil,2910mil)  Bottom Layer   
+   Violation between Pad Designator12-7(1470mil,2680mil)  Multi-Layer and                      Track (1460mil,2700mil)(1460mil,2840mil)  Bottom Layer   
+   Violation between Pad Designator11-17(2580mil,3600mil)  Multi-Layer and                      Track (2580mil,2920mil)(2580mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-11(1870mil,2680mil)  Multi-Layer and                      Track (1870mil,2680mil)(1870mil,2810mil)  Bottom Layer   
+   Violation between Pad Designator12-9(1670mil,2680mil)  Multi-Layer and                      Track (1670mil,2680mil)(1670mil,2910mil)  Bottom Layer   
+   Violation between Pad Designator19-2(1460mil,2440mil)  Multi-Layer and                      Track (1460mil,2440mil)(1460mil,2700mil)  Bottom Layer   
+   Violation between Pad Designator18-2(1460mil,2560mil)  Multi-Layer and                      Track (1460mil,2440mil)(1460mil,2700mil)  Bottom Layer   
+   Violation between Pad Designator12-7(1470mil,2680mil)  Multi-Layer and                      Track (1460mil,2440mil)(1460mil,2700mil)  Bottom Layer   
+   Violation between Pad Designator20-2(1780mil,2560mil)  Multi-Layer and                      Track (1780mil,2560mil)(1780mil,2670mil)  Bottom Layer   
+   Violation between Pad Designator12-10(1770mil,2680mil)  Multi-Layer and                      Track (1780mil,2560mil)(1780mil,2670mil)  Bottom Layer   
+   Violation between Pad Designator20-1(1680mil,2560mil)  Multi-Layer and                      Track (1680mil,2560mil)(1680mil,2670mil)  Bottom Layer   
+   Violation between Pad Designator12-9(1670mil,2680mil)  Multi-Layer and                      Track (1680mil,2560mil)(1680mil,2670mil)  Bottom Layer   
+   Violation between Pad Designator12-8(1570mil,2680mil)  Multi-Layer and                      Track (1570mil,2680mil)(1580mil,2670mil)  Bottom Layer   
+   Violation between Pad Designator20-2(1780mil,2560mil)  Multi-Layer and                      Track (1780mil,2560mil)(1780mil,2580mil)  Bottom Layer   
+   Violation between Pad Designator23-2(1860mil,2320mil)  Multi-Layer and                      Track (1870mil,2330mil)(1870mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator15-2(1860mil,2440mil)  Multi-Layer and                      Track (1870mil,2330mil)(1870mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator12-11(1870mil,2680mil)  Multi-Layer and                      Track (1870mil,2330mil)(1870mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator23-2(1860mil,2320mil)  Multi-Layer and                      Track (1860mil,2320mil)(1870mil,2330mil)  Bottom Layer   
+   Violation between Pad Designator23-1(1760mil,2320mil)  Multi-Layer and                      Track (1760mil,2320mil)(1760mil,2440mil)  Bottom Layer   
+   Violation between Pad Designator15-1(1760mil,2440mil)  Multi-Layer and                      Track (1760mil,2320mil)(1760mil,2440mil)  Bottom Layer   
+   Violation between Pad Designator15-1(1760mil,2440mil)  Multi-Layer and                      Track (1680mil,2520mil)(1760mil,2440mil)  Bottom Layer   
+   Violation between Pad Designator20-1(1680mil,2560mil)  Multi-Layer and                      Track (1680mil,2520mil)(1680mil,2560mil)  Bottom Layer   
+   Violation between Pad Designator11-18(2680mil,3600mil)  Multi-Layer and                      Track (2680mil,2820mil)(2680mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator9-9(3490mil,3190mil)  Multi-Layer and                      Track (3280mil,3200mil)(3480mil,3200mil)  Bottom Layer   
+   Violation between Pad Designator9-9(3490mil,3190mil)  Multi-Layer and                      Track (3480mil,3200mil)(3490mil,3190mil)  Bottom Layer   
+   Violation between Pad Designator9-10(3490mil,3090mil)  Multi-Layer and                      Track (3190mil,3090mil)(3490mil,3090mil)  Bottom Layer   
+   Violation between Pad Designator9-11(3490mil,2990mil)  Multi-Layer and                      Track (3100mil,2990mil)(3490mil,2990mil)  Bottom Layer   
+   Violation between Pad Designator11-27(3580mil,3600mil)  Multi-Layer and                      Track (3580mil,2480mil)(3580mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator9-16(3490mil,2490mil)  Multi-Layer and                      Track (3500mil,2480mil)(3580mil,2480mil)  Bottom Layer   
+   Violation between Pad Designator36-3(3329.764mil,2880mil)  Multi-Layer and                      Track (3339.764mil,2890mil)(3490mil,2890mil)  Bottom Layer   
+   Violation between Pad Designator9-12(3490mil,2890mil)  Multi-Layer and                      Track (3339.764mil,2890mil)(3490mil,2890mil)  Bottom Layer   
+   Violation between Pad Designator39-3(3329.764mil,2680mil)  Multi-Layer and                      Track (3339.764mil,2690mil)(3490mil,2690mil)  Bottom Layer   
+   Violation between Pad Designator9-14(3490mil,2690mil)  Multi-Layer and                      Track (3339.764mil,2690mil)(3490mil,2690mil)  Bottom Layer   
+   Violation between Pad Designator42-3(2989.764mil,2800mil)  Multi-Layer and                      Track (2989.764mil,2800mil)(3480mil,2800mil)  Bottom Layer   
+   Violation between Pad Designator9-13(3490mil,2790mil)  Multi-Layer and                      Track (2989.764mil,2800mil)(3480mil,2800mil)  Bottom Layer   
+   Violation between Pad Designator34-3(2989.764mil,2600mil)  Multi-Layer and                      Track (2989.764mil,2600mil)(3480mil,2600mil)  Bottom Layer   
+   Violation between Pad Designator9-15(3490mil,2590mil)  Multi-Layer and                      Track (2989.764mil,2600mil)(3480mil,2600mil)  Bottom Layer   
+   Violation between Pad Designator9-1(3790mil,2490mil)  Multi-Layer and                      Track (3790mil,2490mil)(3940.236mil,2490mil)  Bottom Layer   
+   Violation between Pad Designator40-1(3950.236mil,2480mil)  Multi-Layer and                      Track (3790mil,2490mil)(3940.236mil,2490mil)  Bottom Layer   
+   Violation between Pad Designator40-1(3950.236mil,2480mil)  Multi-Layer and                      Track (3940.236mil,2490mil)(3950.236mil,2480mil)  Bottom Layer   
+   Violation between Pad Designator9-2(3790mil,2590mil)  Multi-Layer and                      Track (3800mil,2580mil)(4280mil,2580mil)  Bottom Layer   
+   Violation between Pad Designator33-1(4290.236mil,2580mil)  Multi-Layer and                      Track (3800mil,2580mil)(4280mil,2580mil)  Bottom Layer   
+   Violation between Pad Designator9-2(3790mil,2590mil)  Multi-Layer and                      Track (3790mil,2590mil)(3800mil,2580mil)  Bottom Layer   
+   Violation between Pad Designator35-1(3950.236mil,2780mil)  Multi-Layer and                      Track (3800mil,2780mil)(3950.236mil,2780mil)  Bottom Layer   
+   Violation between Pad Designator9-4(3790mil,2790mil)  Multi-Layer and                      Track (3800mil,2780mil)(3950.236mil,2780mil)  Bottom Layer   
+   Violation between Pad Designator9-4(3790mil,2790mil)  Multi-Layer and                      Track (3790mil,2790mil)(3800mil,2780mil)  Bottom Layer   
+   Violation between Pad Designator9-5(3790mil,2890mil)  Multi-Layer and                      Track (3800mil,2880mil)(4290.236mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator41-1(4290.236mil,2880mil)  Multi-Layer and                      Track (3800mil,2880mil)(4290.236mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator9-5(3790mil,2890mil)  Multi-Layer and                      Track (3790mil,2890mil)(3800mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator9-8(3790mil,3190mil)  Multi-Layer and                      Track (3690mil,3190mil)(3790mil,3190mil)  Bottom Layer   
+   Violation between Pad Designator9-6(3790mil,2990mil)  Multi-Layer and                      Track (3780mil,3000mil)(3790mil,2990mil)  Bottom Layer   
+   Violation between Pad Designator9-6(3790mil,2990mil)  Multi-Layer and                      Track (3660mil,3000mil)(3780mil,3000mil)  Bottom Layer   
+   Violation between Pad Designator36-1(3150.236mil,2880mil)  Multi-Layer and                      Track (2800mil,2880mil)(3150.236mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator34-1(2810.236mil,2600mil)  Multi-Layer and                      Track (2800mil,2440mil)(2800mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator42-1(2810.236mil,2800mil)  Multi-Layer and                      Track (2800mil,2440mil)(2800mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator39-1(3150.236mil,2680mil)  Multi-Layer and                      Track (2800mil,2680mil)(3150.236mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator36-1(3150.236mil,2880mil)  Multi-Layer and                      Track (3150.236mil,2880mil)(3240mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator36-2(3240mil,2880mil)  Multi-Layer and                      Track (3150.236mil,2880mil)(3240mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator39-1(3150.236mil,2680mil)  Multi-Layer and                      Track (3150.236mil,2680mil)(3240mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator39-2(3240mil,2680mil)  Multi-Layer and                      Track (3150.236mil,2680mil)(3240mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator42-1(2810.236mil,2800mil)  Multi-Layer and                      Track (2810.236mil,2800mil)(2900mil,2800mil)  Bottom Layer   
+   Violation between Pad Designator42-2(2900mil,2800mil)  Multi-Layer and                      Track (2810.236mil,2800mil)(2900mil,2800mil)  Bottom Layer   
+   Violation between Pad Designator34-1(2810.236mil,2600mil)  Multi-Layer and                      Track (2810.236mil,2600mil)(2900mil,2600mil)  Bottom Layer   
+   Violation between Pad Designator34-2(2900mil,2600mil)  Multi-Layer and                      Track (2810.236mil,2600mil)(2900mil,2600mil)  Bottom Layer   
+   Violation between Pad Designator41-3(4469.764mil,2880mil)  Multi-Layer and                      Track (4469.764mil,2880mil)(4469.764mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator41-3(4469.764mil,2880mil)  Multi-Layer and                      Track (4469.764mil,2880mil)(4740mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator41-2(4380mil,2880mil)  Multi-Layer and                      Track (4380mil,2880mil)(4380mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator41-2(4380mil,2880mil)  Multi-Layer and                      Track (4380mil,2880mil)(4740mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator41-3(4469.764mil,2880mil)  Multi-Layer and                      Track (4380mil,2880mil)(4740mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator35-2(4040mil,2780mil)  Multi-Layer and                      Track (4040mil,2780mil)(4740mil,2780mil)  Bottom Layer   
+   Violation between Pad Designator35-3(4129.764mil,2780mil)  Multi-Layer and                      Track (4040mil,2780mil)(4740mil,2780mil)  Bottom Layer   
+   Violation between Pad Designator33-2(4380mil,2580mil)  Multi-Layer and                      Track (4380mil,2580mil)(4740mil,2580mil)  Bottom Layer   
+   Violation between Pad Designator33-3(4469.764mil,2580mil)  Multi-Layer and                      Track (4380mil,2580mil)(4740mil,2580mil)  Bottom Layer   
+   Violation between Pad Designator40-2(4040mil,2480mil)  Multi-Layer and                      Track (4040mil,2480mil)(4740mil,2480mil)  Bottom Layer   
+   Violation between Pad Designator40-3(4129.764mil,2480mil)  Multi-Layer and                      Track (4040mil,2480mil)(4740mil,2480mil)  Bottom Layer   
+   Violation between Pad Designator13-2(5330mil,2890mil)  Multi-Layer and                      Track (4740mil,2880mil)(5320mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator9-3(3790mil,2690mil)  Multi-Layer and                      Track (3790mil,2690mil)(4630mil,2690mil)  Bottom Layer   
+   Violation between Pad Designator13-6(5630mil,2790mil)  Multi-Layer and                      Track (5660mil,2780mil)(5740mil,2780mil)  Bottom Layer   
+   Violation between Pad Designator12-13(2070mil,2680mil)  Multi-Layer and                      Track (2070mil,2530mil)(2070mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator9-7(3790mil,3090mil)  Multi-Layer and                      Track (3790mil,3090mil)(3890mil,3090mil)  Bottom Layer   
+   Violation between Pad Designator11-28(3680mil,3600mil)  Multi-Layer and                      Track (3660mil,3320mil)(3660mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator27-1(5100mil,2680mil)  Multi-Layer and                      Track (5100mil,2680mil)(5320mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator28-1(5220mil,2680mil)  Multi-Layer and                      Track (5100mil,2680mil)(5320mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator13-4(5330mil,2690mil)  Multi-Layer and                      Track (5100mil,2680mil)(5320mil,2680mil)  Bottom Layer   
+   Violation between Pad Designator27-2(5100mil,2780mil)  Multi-Layer and                      Track (5110mil,2790mil)(5330mil,2790mil)  Bottom Layer   
+   Violation between Pad Designator28-2(5220mil,2780mil)  Multi-Layer and                      Track (5110mil,2790mil)(5330mil,2790mil)  Bottom Layer   
+   Violation between Pad Designator13-3(5330mil,2790mil)  Multi-Layer and                      Track (5110mil,2790mil)(5330mil,2790mil)  Bottom Layer   
+   Violation between Pad Designator27-2(5100mil,2780mil)  Multi-Layer and                      Track (5100mil,2780mil)(5110mil,2790mil)  Bottom Layer   
+   Violation between Pad Designator27-2(5100mil,2780mil)  Multi-Layer and                      Track (4880mil,2780mil)(5100mil,2780mil)  Bottom Layer   
+   Violation between Pad Designator24-1(4900mil,3000mil)  Multi-Layer and                      Track (4900mil,2880mil)(4900mil,3000mil)  Bottom Layer   
+   Violation between Pad Designator25-1(4740mil,3020mil)  Multi-Layer and                      Track (4740mil,3000mil)(4900mil,3120mil)  Bottom Layer   
+   Violation between Pad Designator24-2(4900mil,3100mil)  Multi-Layer and                      Track (4740mil,3000mil)(4900mil,3120mil)  Bottom Layer   
+   Violation between Pad Designator24-2(4900mil,3100mil)  Multi-Layer and                      Track (4900mil,3100mil)(4900mil,3120mil)  Bottom Layer   
+   Violation between Pad Designator13-7(5630mil,2890mil)  Multi-Layer and                      Track (5640mil,2900mil)(5900mil,2900mil)  Bottom Layer   
+   Violation between Pad Designator22-1(5760mil,2900mil)  Multi-Layer and                      Track (5640mil,2900mil)(5900mil,2900mil)  Bottom Layer   
+   Violation between Pad Designator21-1(5900mil,2900mil)  Multi-Layer and                      Track (5640mil,2900mil)(5900mil,2900mil)  Bottom Layer   
+   Violation between Pad Designator13-7(5630mil,2890mil)  Multi-Layer and                      Track (5630mil,2890mil)(5640mil,2900mil)  Bottom Layer   
+   Violation between Pad Designator13-7(5630mil,2890mil)  Multi-Layer and                      Track (5620mil,2900mil)(5640mil,2880mil)  Bottom Layer   
+   Violation between Pad Designator13-7(5630mil,2890mil)  Multi-Layer and                      Track (5480mil,2900mil)(5620mil,2900mil)  Bottom Layer   
+   Violation between Pad Designator13-4(5330mil,2690mil)  Multi-Layer and                      Track (5330mil,2690mil)(5410mil,2690mil)  Bottom Layer   
+   Violation between Pad Designator37-1(4250.236mil,3360mil)  Multi-Layer and                      Track (4140mil,3360mil)(4330.236mil,3360mil)  Bottom Layer   
+   Violation between Pad Designator37-2(4340mil,3360mil)  Multi-Layer and                      Track (4140mil,3360mil)(4330.236mil,3360mil)  Bottom Layer   
+   Violation between Pad Designator29-2(5180mil,3080mil)  Multi-Layer and                      Track (5180mil,3080mil)(5480mil,3080mil)  Bottom Layer   
+   Violation between Pad Designator22-2(5760mil,3000mil)  Multi-Layer and                      Track (5760mil,3000mil)(6080mil,3000mil)  Bottom Layer   
+   Violation between Pad Designator21-2(5900mil,3000mil)  Multi-Layer and                      Track (5760mil,3000mil)(6080mil,3000mil)  Bottom Layer   
+   Violation between Pad Designator17-1(760mil,2420mil)  Multi-Layer and                      Track (760mil,2180mil)(760mil,2420mil)  Bottom Layer   
+   Violation between Pad Designator29-1(5080mil,3080mil)  Multi-Layer and                      Track (5080mil,3080mil)(5080mil,3220mil)  Bottom Layer   
+   Violation between Pad Designator26-1(5080mil,3220mil)  Multi-Layer and                      Track (5080mil,3080mil)(5080mil,3220mil)  Bottom Layer   
+   Violation between Pad Designator30-2(4740mil,3260mil)  Multi-Layer and                      Track (4740mil,3120mil)(4740mil,3260mil)  Bottom Layer   
+   Violation between Pad Designator25-2(4740mil,3120mil)  Multi-Layer and                      Track (4740mil,3120mil)(4740mil,3260mil)  Bottom Layer   
+   Violation between Pad Designator26-1(5080mil,3220mil)  Multi-Layer and                      Track (5080mil,3220mil)(5080mil,3280mil)  Bottom Layer   
+   Violation between Pad Designator30-3(4790mil,3260mil)  Multi-Layer and                      Track (4810mil,3280mil)(5080mil,3280mil)  Bottom Layer   
+   Violation between Pad Designator30-3(4790mil,3260mil)  Multi-Layer and                      Track (4790mil,3260mil)(4810mil,3280mil)  Bottom Layer   
+   Violation between Pad Designator30-1(4690mil,3260mil)  Multi-Layer and                      Track (4690mil,3260mil)(4690mil,3350mil)  Bottom Layer   
+   Violation between Pad Designator37-3(4429.764mil,3360mil)  Multi-Layer and                      Track (4429.764mil,3360mil)(4680mil,3360mil)  Bottom Layer   
+   Violation between Pad Designator12-26(1070mil,3280mil)  Multi-Layer and                      Track (1070mil,3280mil)(1080mil,3290mil)  Bottom Layer   
+   Violation between Pad Designator12-26(1070mil,3280mil)  Multi-Layer and                      Track (1080mil,3290mil)(1080mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator11-2(1080mil,3600mil)  Multi-Layer and                      Track (1080mil,3290mil)(1080mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-25(1170mil,3280mil)  Multi-Layer and                      Track (1170mil,3280mil)(1170mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-3(1180mil,3600mil)  Multi-Layer and                      Track (1170mil,3280mil)(1170mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-3(1180mil,3600mil)  Multi-Layer and                      Track (1170mil,3590mil)(1180mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-24(1270mil,3280mil)  Multi-Layer and                      Track (1270mil,3280mil)(1270mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-4(1280mil,3600mil)  Multi-Layer and                      Track (1270mil,3280mil)(1270mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-4(1280mil,3600mil)  Multi-Layer and                      Track (1270mil,3590mil)(1280mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-23(1370mil,3280mil)  Multi-Layer and                      Track (1370mil,3280mil)(1370mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-5(1380mil,3600mil)  Multi-Layer and                      Track (1370mil,3280mil)(1370mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-5(1380mil,3600mil)  Multi-Layer and                      Track (1370mil,3590mil)(1380mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-22(1470mil,3280mil)  Multi-Layer and                      Track (1470mil,3280mil)(1470mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-6(1480mil,3600mil)  Multi-Layer and                      Track (1470mil,3280mil)(1470mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-6(1480mil,3600mil)  Multi-Layer and                      Track (1470mil,3590mil)(1480mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-21(1570mil,3280mil)  Multi-Layer and                      Track (1570mil,3280mil)(1570mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-7(1580mil,3600mil)  Multi-Layer and                      Track (1570mil,3280mil)(1570mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-7(1580mil,3600mil)  Multi-Layer and                      Track (1570mil,3590mil)(1580mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-19(1770mil,3280mil)  Multi-Layer and                      Track (1770mil,3280mil)(1780mil,3290mil)  Bottom Layer   
+   Violation between Pad Designator12-19(1770mil,3280mil)  Multi-Layer and                      Track (1780mil,3290mil)(1780mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator11-9(1780mil,3600mil)  Multi-Layer and                      Track (1780mil,3290mil)(1780mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-20(1670mil,3280mil)  Multi-Layer and                      Track (1670mil,3280mil)(1670mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-8(1680mil,3600mil)  Multi-Layer and                      Track (1670mil,3280mil)(1670mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-8(1680mil,3600mil)  Multi-Layer and                      Track (1670mil,3590mil)(1680mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-18(1870mil,3280mil)  Multi-Layer and                      Track (1870mil,3280mil)(1870mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-10(1880mil,3600mil)  Multi-Layer and                      Track (1870mil,3280mil)(1870mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-10(1880mil,3600mil)  Multi-Layer and                      Track (1860mil,3600mil)(1870mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator12-17(1970mil,3280mil)  Multi-Layer and                      Track (1970mil,3280mil)(1970mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-11(1980mil,3600mil)  Multi-Layer and                      Track (1970mil,3280mil)(1970mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-11(1980mil,3600mil)  Multi-Layer and                      Track (1970mil,3590mil)(1980mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator12-16(2070mil,3280mil)  Multi-Layer and                      Track (2070mil,3280mil)(2070mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-12(2080mil,3600mil)  Multi-Layer and                      Track (2070mil,3280mil)(2070mil,3590mil)  Bottom Layer   
+   Violation between Pad Designator11-12(2080mil,3600mil)  Multi-Layer and                      Track (2070mil,3590mil)(2080mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator31-1(1980mil,2350.236mil)  Multi-Layer and                      Track (1980mil,2260mil)(1980mil,2440mil)  Bottom Layer   
+   Violation between Pad Designator31-2(1980mil,2440mil)  Multi-Layer and                      Track (1980mil,2260mil)(1980mil,2440mil)  Bottom Layer   
+   Violation between Pad Designator31-2(1980mil,2440mil)  Multi-Layer and                      Track (1980mil,2440mil)(1980mil,2440mil)  Bottom Layer   
+   Violation between Pad Designator31-3(1980mil,2529.764mil)  Multi-Layer and                      Track (1980mil,2529.764mil)(1980mil,2529.764mil)  Bottom Layer   
+   Violation between Pad Designator31-3(1980mil,2529.764mil)  Multi-Layer and                      Track (1980mil,2529.764mil)(1980mil,2700mil)  Bottom Layer   
+   Violation between Pad Designator12-12(1970mil,2680mil)  Multi-Layer and                      Track (1980mil,2529.764mil)(1980mil,2700mil)  Bottom Layer   
+   Violation between Pad Designator12-12(1970mil,2680mil)  Multi-Layer and                      Track (1980mil,2690mil)(1980mil,2700mil)  Bottom Layer   
+   Violation between Pad Designator12-12(1970mil,2680mil)  Multi-Layer and                      Track (1970mil,2680mil)(1980mil,2690mil)  Bottom Layer   
+   Violation between Pad Designator17-1(760mil,2420mil)  Multi-Layer and                      Area Fill (680mil,2140mil) (760mil,3160mil)  Bottom Layer   
+   Violation between Pad Designator16-1(760mil,2540mil)  Multi-Layer and                      Area Fill (680mil,2140mil) (760mil,3160mil)  Bottom Layer   
+   Violation between Pad Designator26-2(5180mil,3220mil)  Multi-Layer and                      Area Fill (5160mil,3200mil) (5940mil,3480mil)  Bottom Layer   
+   Violation between Pad Designator12-3(1070mil,2680mil)  Multi-Layer and                      Area Fill (1060mil,2480mil) (1180mil,3000mil)  Bottom Layer   
+   Violation between Pad Designator12-4(1170mil,2680mil)  Multi-Layer and                      Area Fill (1060mil,2480mil) (1180mil,3000mil)  Bottom Layer   
+   Violation between Pad Designator11-14(2280mil,3600mil)  Multi-Layer and                      Area Fill (2280mil,2880mil) (2480mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator11-15(2380mil,3600mil)  Multi-Layer and                      Area Fill (2280mil,2880mil) (2480mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator11-16(2480mil,3600mil)  Multi-Layer and                      Area Fill (2280mil,2880mil) (2480mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator19-1(1360mil,2440mil)  Multi-Layer and                      Area Fill (1060mil,2440mil) (1360mil,2560mil)  Bottom Layer   
+   Violation between Pad Designator18-1(1360mil,2560mil)  Multi-Layer and                      Area Fill (1060mil,2440mil) (1360mil,2560mil)  Bottom Layer   
+   Violation between Pad Designator22-2(5760mil,3000mil)  Multi-Layer and                      Area Fill (5720mil,3000mil) (6100mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator21-2(5900mil,3000mil)  Multi-Layer and                      Area Fill (5720mil,3000mil) (6100mil,3600mil)  Bottom Layer   
+   Violation between Pad Designator19-1(1360mil,2440mil)  Multi-Layer and                      Area Fill (960mil,2180mil) (1340mil,2580mil)  Bottom Layer   
+   Violation between Pad Designator18-1(1360mil,2560mil)  Multi-Layer and                      Area Fill (960mil,2180mil) (1340mil,2580mil)  Bottom Layer   
+Rule Violations :196
+
+Processing Rule : Broken-Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Prefered=10mil) (All)
+   Violation         Track (1260mil,3040mil)(1270mil,3050mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (1260mil,2800mil)(1260mil,3040mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (5480mil,2480mil)(5480mil,2700mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2680mil,3440mil)(3800mil,3440mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (3800mil,3440mil)(4140mil,3220mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4140mil,3220mil)(4440mil,3220mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4440mil,3220mil)(4660mil,3000mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4660mil,2840mil)(4660mil,3000mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4660mil,2840mil)(4900mil,2840mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4900mil,2480mil)(4900mil,2840mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4900mil,2480mil)(5480mil,2480mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2880mil,3080mil)(2880mil,3380mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2860mil,3060mil)(2880mil,3080mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (1280mil,3060mil)(2860mil,3060mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2980mil,2980mil)(2980mil,3380mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (1360mil,2980mil)(2980mil,2980mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (1360mil,2820mil)(1360mil,2980mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (3080mil,2980mil)(3080mil,3380mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (3180mil,3100mil)(3180mil,3380mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2780mil,3140mil)(2780mil,3260mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (860mil,3140mil)(2780mil,3140mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (860mil,2820mil)(860mil,3140mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (1460mil,2820mil)(1460mil,2900mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (1460mil,2900mil)(2560mil,2900mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (1860mil,2820mil)(2520mil,2820mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (3280mil,3200mil)(3280mil,3380mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2800mil,2320mil)(2800mil,2440mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2800mil,2320mil)(4740mil,2320mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (5740mil,2240mil)(5740mil,2780mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2480mil,2240mil)(5740mil,2240mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4820mil,2240mil)(4820mil,2700mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4640mil,2700mil)(4820mil,2700mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2580mil,3500mil)(5460mil,3500mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4140mil,3360mil)(4140mil,3500mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (5480mil,2900mil)(5480mil,3480mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (5460mil,3500mil)(5466.49mil,3493.51mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2080mil,2540mil)(2180mil,2540mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (2180mil,2540mil)(2480mil,2240mil)  Top Layer  Actual Width = 20mil
+   Violation         Track (4740mil,3380mil)(4980mil,3380mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4740mil,3260mil)(4740mil,3380mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1700mil,2260mil)(1980mil,2260mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1620mil,2340mil)(1700mil,2260mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1580mil,2340mil)(1620mil,2340mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1580mil,2340mil)(1580mil,2670mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (980mil,3300mil)(980mil,3560mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3100mil,2990mil)(3250mil,2990mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3180mil,3380mil)(3180mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3080mil,3380mil)(3080mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3280mil,3380mil)(3280mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2880mil,3380mil)(2880mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2980mil,3380mil)(2980mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1370mil,2680mil)(1370mil,2810mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1270mil,2680mil)(1270mil,2810mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2780mil,3260mil)(3580mil,3260mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (870mil,2680mil)(870mil,2810mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1000mil,3020mil)(2340mil,3020mil)  Bottom Layer  Actual Width = 300mil
+   Violation         Track (2170mil,3130mil)(2170mil,3280mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (870mil,2680mil)(980mil,2680mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (860mil,2440mil)(860mil,2680mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (760mil,2420mil)(760mil,3160mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1070mil,2680mil)(1070mil,2970mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1170mil,2680mil)(1170mil,2910mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1460mil,2700mil)(1460mil,2840mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2580mil,2920mil)(2580mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1870mil,2680mil)(1870mil,2810mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1670mil,2680mil)(1670mil,2910mil)  Bottom Layer  Actual Width = 30mil
+   Violation         Track (780mil,3160mil)(1120mil,3160mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (780mil,2880mil)(1080mil,2880mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1460mil,2440mil)(1460mil,2700mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1780mil,2560mil)(1780mil,2670mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1680mil,2560mil)(1680mil,2670mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1870mil,2330mil)(1870mil,2680mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1760mil,2320mil)(1760mil,2440mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1680mil,2520mil)(1760mil,2440mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1680mil,2520mil)(1680mil,2560mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2680mil,2820mil)(2680mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2520mil,2820mil)(2680mil,2820mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3280mil,3200mil)(3480mil,3200mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3190mil,3090mil)(3490mil,3090mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3100mil,2990mil)(3490mil,2990mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3580mil,2480mil)(3580mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3500mil,2480mil)(3580mil,2480mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3339.764mil,2890mil)(3490mil,2890mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3339.764mil,2690mil)(3490mil,2690mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2989.764mil,2800mil)(3480mil,2800mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2989.764mil,2600mil)(3480mil,2600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3790mil,2490mil)(3940.236mil,2490mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3800mil,2580mil)(4280mil,2580mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3800mil,2780mil)(3950.236mil,2780mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3800mil,2880mil)(4290.236mil,2880mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3690mil,3190mil)(3790mil,3190mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3660mil,3160mil)(3690mil,3190mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3660mil,2320mil)(3660mil,3160mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2260mil,2320mil)(3660mil,2320mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3660mil,3000mil)(3780mil,3000mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2800mil,2880mil)(3150.236mil,2880mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2800mil,2440mil)(2800mil,2880mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2800mil,2680mil)(3150.236mil,2680mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3150.236mil,2880mil)(3240mil,2880mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3150.236mil,2680mil)(3240mil,2680mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2810.236mil,2800mil)(2900mil,2800mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2810.236mil,2600mil)(2900mil,2600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4740mil,2320mil)(4740mil,2880mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4380mil,2880mil)(4740mil,2880mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4040mil,2780mil)(4740mil,2780mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4380mil,2580mil)(4740mil,2580mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4040mil,2480mil)(4740mil,2480mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4740mil,2880mil)(5320mil,2880mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3790mil,2690mil)(4630mil,2690mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5660mil,2780mil)(5740mil,2780mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2070mil,2530mil)(2070mil,2680mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3790mil,3090mil)(3890mil,3090mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3900mil,3100mil)(3900mil,3320mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3660mil,3320mil)(3900mil,3320mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (3660mil,3320mil)(3660mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5100mil,2680mil)(5320mil,2680mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5110mil,2790mil)(5330mil,2790mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4880mil,2780mil)(5100mil,2780mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4900mil,2880mil)(4900mil,3000mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4740mil,3000mil)(4900mil,3120mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5640mil,2900mil)(5900mil,2900mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5480mil,2900mil)(5620mil,2900mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5330mil,2690mil)(5410mil,2690mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5410mil,2690mil)(5480mil,2700mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4140mil,3360mil)(4330.236mil,3360mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5180mil,3080mil)(5480mil,3080mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (760mil,2180mil)(760mil,2420mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5080mil,3080mil)(5080mil,3220mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4740mil,3120mil)(4740mil,3260mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (5080mil,3220mil)(5080mil,3280mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4810mil,3280mil)(5080mil,3280mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4690mil,3260mil)(4690mil,3350mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4680mil,3360mil)(4690mil,3350mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (4429.764mil,3360mil)(4680mil,3360mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1080mil,3290mil)(1080mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1170mil,3280mil)(1170mil,3590mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1270mil,3280mil)(1270mil,3590mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1370mil,3280mil)(1370mil,3590mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1470mil,3280mil)(1470mil,3590mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1570mil,3280mil)(1570mil,3590mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1780mil,3290mil)(1780mil,3600mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1670mil,3280mil)(1670mil,3590mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1870mil,3280mil)(1870mil,3590mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1970mil,3280mil)(1970mil,3590mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (2070mil,3280mil)(2070mil,3590mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1980mil,2260mil)(1980mil,2440mil)  Bottom Layer  Actual Width = 20mil
+   Violation         Track (1980mil,2529.764mil)(1980mil,2700mil)  Bottom Layer  Actual Width = 20mil
+Rule Violations :147
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 343
+Time Elapsed        : 00:00:01

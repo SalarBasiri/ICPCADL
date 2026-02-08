@@ -1,0 +1,11 @@
+Project Outputs Generation Report
+Document [Sheet2.SCHDOC]
+Start Time [09:11:41 È.Ù]
+Start Date [2006/02/10]
+
+Output   [Protel]
+Type     [ProtelNetlist]
+'Sheet2.NET' generated
+
+
+Total number of generated files = 1

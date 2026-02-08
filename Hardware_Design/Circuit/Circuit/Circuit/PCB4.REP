@@ -1,0 +1,39 @@
+Specifications For PCB4.PCBDOC
+On 2005/07/21 at 10:23:08 È.Ù
+
+Size Of board                   99.999 x 99.999 sq in
+Equivalent 14 pin components    0.00 sq in/14 pin component
+Components on board             0
+
+ Layer                    Route    Pads  Tracks   Fills    Arcs    Text
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+ Total                                0       0       0       0       0
+
+
+ Layer Pair                        Vias
+----------------------------------------
+----------------------------------------
+ Total                                0
+
+
+ Non-Plated Hole Size      Pads    Vias
+----------------------------------------
+----------------------------------------
+ Total                        0       0
+
+
+ Plated Hole Size          Pads    Vias
+----------------------------------------
+----------------------------------------
+ Total                        0       0
+
+
+ Routing Information
+----------------------------------
+ Routing completion    : NAN%
+ Connections           : 0
+ Connections routed    : 0
+ Connections remaining : 0
+----------------------------------
+
