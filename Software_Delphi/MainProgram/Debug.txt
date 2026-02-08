@@ -1,0 +1,32 @@
+2005/07/19 
+11:01:36 È.Ù 
+Original File name: E:\New Project\Main_Program\ICPCLDL.dpr
+----------------------------------------------------
+  Input  string  : UNIT1.DFM
+----------------------------------------------------
+  Input  string  : UNIT2.DFM
+---------------------------------------------------
+Raw filenames in selection list
+UNIT1.DFM
+UNIT2.DFM
+---------------------------------------------------
+
+---------------------------------------------------------
+Filename passed to ProcessDelphiForm :UNIT1.DFM
+Filename passed back to ConvertDRM_to_TXT :UNIT1.DFM
+Command string = 'COMMAND.COM /C D:\PROGRA~1\Borland\Delphi7\Bin\convert.exe UNIT1.DFM'
+File conversion in ConvertDRM_to_TXT ...
+   Filename$       :E:\NEWPRO~1\MAIN_P~1\UNIT1.DFM
+       TextFileName:E:\NEWPRO~1\MAIN_P~1\UNIT1.TXT
+ Final TextFileName:E:\NEWPRO~1\MAIN_P~1\UNIT1.TXT
+Filename passed back to ProcessDelphiForm :E:\NEWPRO~1\MAIN_P~1\UNIT1.TXT
+
+---------------------------------------------------------
+Filename passed to ProcessDelphiForm :UNIT2.DFM
+Filename passed back to ConvertDRM_to_TXT :UNIT2.DFM
+Command string = 'COMMAND.COM /C D:\PROGRA~1\Borland\Delphi7\Bin\convert.exe UNIT2.DFM'
+File conversion in ConvertDRM_to_TXT ...
+   Filename$       :E:\NEWPRO~1\MAIN_P~1\UNIT2.DFM
+       TextFileName:E:\NEWPRO~1\MAIN_P~1\UNIT2.TXT
+ Final TextFileName:E:\NEWPRO~1\MAIN_P~1\UNIT2.TXT
+Filename passed back to ProcessDelphiForm :E:\NEWPRO~1\MAIN_P~1\UNIT2.TXT
